@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  gap: 30px;
+}
+.href {
+  margin-left: 120vh;
+}
+.home-search {
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  text-align: center;
+  padding: 0 2rem;
+}
